@@ -25,7 +25,6 @@ class Home extends Component {
                         <Link to='/features'>
                             <button className='ui basic green button m-xl-5'>Open Implemented Features</button>
                         </Link>
-                        <span>Test String</span>
                     </div>
                     <div className='row mt-xl-5 ml-5 mr-5'>
                         <div className='col mt-md-5'>
